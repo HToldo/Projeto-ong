@@ -29,7 +29,7 @@ html {
 }
 
 body {
-    background-image: url(../_imagens/imagemprincipal01.png );
+    background-image: url(../imagens/imagemprincipal01.png );
     background-color: var(--cor6);
     background-size: cover;
     background-position: center;
