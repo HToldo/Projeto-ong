@@ -131,6 +131,10 @@ article#doe-agora > p {
     text-shadow: 2px 3px 5px rgba(0, 0, 0, 0.4);
 }
 
+ul#valores {
+    text-align: left;
+}
+
 footer {
      background-image: linear-gradient(to right, var(--cor1), var(--cor2), var(--cor3), var(--cor2));
      border-style: solid;
