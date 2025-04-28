@@ -125,6 +125,7 @@ article {
 
 article#doe-agora > p {
     text-align: center;
+    width: 90%;
     font-size: 1.3em;
     color: black;
     text-shadow: 2px 3px 5px rgba(0, 0, 0, 0.4);
