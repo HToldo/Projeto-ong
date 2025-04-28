@@ -103,7 +103,7 @@ p {
     text-align: justify;
     text-indent: 30px;
     margin: 0 5px 0 5px;
-
+    line-height: 1.6em;
 }
 
 article {
@@ -133,6 +133,7 @@ article#doe-agora > p {
 
 ul#valores {
     text-align: left;
+    line-height: 2em;
 }
 
 footer {
