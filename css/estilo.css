@@ -131,6 +131,30 @@ article#doe-agora > p {
     text-shadow: 2px 3px 5px rgba(0, 0, 0, 0.4);
 }
 
+article span {
+    font-size: 1.2em;
+}
+
+.contato {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    justify-content: center;
+    line-height: 3em;
+    
+}
+
+.contato a {
+    text-align: center;
+    text-decoration: none;
+    font-size: 1.2em;
+    }
+
+.contato a:hover {
+    color : white;
+    transition: 0.3s;
+}    
+
 ul#valores {
     text-align: left;
     line-height: 2em;
