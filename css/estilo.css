@@ -133,6 +133,7 @@ article#doe-agora > p {
 
 article span {
     font-size: 1.2em;
+   
 }
 
 .contato {
@@ -141,6 +142,8 @@ article span {
     margin-bottom: 10px;
     justify-content: center;
     line-height: 3em;
+    min-width: 300px;
+    max-width: 800px;
     
 }
 
