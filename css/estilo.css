@@ -9,6 +9,37 @@
     article {
         width: 90%;
     }
+
+    body {
+        font-size: 1em; /* Reduz o tamanho base do texto */
+    }
+
+    h2 {
+        font-size: 1.5em; /* Ajusta o tamanho dos títulos */
+    }
+
+    p {
+        font-size: 0.9em; /* Ajusta o tamanho dos parágrafos */
+    }
+
+    article#doe-agora > p {
+        font-size: 1em; /* Ajusta o texto específico do artigo */
+    }
+}
+
+/* Ajuste de texto para telas muito pequenas */
+@media (max-width: 400px) {
+    body {
+        font-size: 0.9em;
+    }
+
+    h2 {
+        font-size: 1.2em;
+    }
+
+    p {
+        font-size: 0.8em;
+    }
 }
 
 :root {
